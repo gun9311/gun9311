@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header"/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gun9311)](https://solved.ac/gun9311)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gun9311)](https://solved.ac/gun9311)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 </p>
-
+<br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
+<br>
 <p align="center">
   <a href="mailto:gun9311@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gun9311@gmail.com"/></a>
 </p>
