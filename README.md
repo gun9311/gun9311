@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header"/>
 
-<div style="display: flex; justify-content: center;">
-    <a href="https://solved.ac/gun9311">
+<div style="text-align: center;">
+    <a href="https://solved.ac/gun9311" style="display: inline-block;">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gun9311" alt="Solved.ac 프로필">
     </a>
 </div>
