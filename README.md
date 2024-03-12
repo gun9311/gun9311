@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header"/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gun9311)](https://solved.ac/gun9311)
+<div style="display: flex; justify-content: center;">
+    <a href="https://solved.ac/gun9311">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gun9311" alt="Solved.ac 프로필">
+    </a>
+</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <br>
