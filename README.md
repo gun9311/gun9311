@@ -7,7 +7,6 @@
 </div>
 <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
-<br>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -24,7 +23,6 @@
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
-<br>
 <p align="center">
   <a href="mailto:gun9311@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gun9311@gmail.com"/></a>
 </p>
